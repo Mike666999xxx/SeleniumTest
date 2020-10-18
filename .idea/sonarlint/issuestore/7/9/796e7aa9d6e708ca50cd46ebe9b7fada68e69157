@@ -1,0 +1,10 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÆæÃøÿÿÿÿ8¤›İÚÓ.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Í”Áğ8Â·ğºÓ.
+p
+java:S2095%"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÍõªÌÿÿÿÿÿ8×®‘»Ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¶ğ…şÿÿÿÿ8¦ÅşºÓ.
+]	java:S125"<This block of commented-out lines of code should be removed.(í³‡Øùÿÿÿÿ8ÄÕİÚÓ.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "browser" 3 times.(«¶ğ…şÿÿÿÿ8ÒÀ¤»Ó.
